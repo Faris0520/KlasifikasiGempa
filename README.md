@@ -102,6 +102,10 @@ Project ini menghasilkan beberapa visualisasi:
 3. **Scatter plot** sebaran lokasi gempa (longitude vs latitude)
 4. **Heatmap** Confusion Matrix hasil klasifikasi
 
+![distribusi](img/distribusi.png)
+![sebaran](img/sebaran.png)
+![confusion](img/confusion.png)
+
 ## Library yang Digunakan
 
 ```python
